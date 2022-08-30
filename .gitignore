@@ -1,0 +1,9 @@
+/results/
+/.idea/
+**/.DS_Store
+**/__pycache__
+/.vscode
+/models/snapshots/model_ir_se50.pth
+/models/snapshots/network-snapshot-013600.pkl
+/.ipynb_checkpoints
+/input_images/
